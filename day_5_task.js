@@ -1,5 +1,5 @@
 let resume = {
-    besic: {
+    info: {
       name: "aditya sanap",
       DOB: "24/12/1998",
       age: 26,
